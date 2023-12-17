@@ -1,0 +1,43 @@
+.button1{
+  background-color: lightblue;
+  height: 50px;
+  width: 95px;
+  border: none;
+  border-radius: 11px;
+  font-weight: bold;
+  cursor: pointer;
+
+}
+.sub-button1{
+  background-color: lightgray;
+  color: black;
+  height: 50px;
+  width: 95px;
+  border: none;
+  border-radius: 11px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.button2{
+  background-color: black;
+  color: white;
+  height: 50px;
+  width: 105px;
+  padding: 10px 15px;
+  border: solid;
+  font-weight: bold;
+  border-radius: 11px;
+  cursor: pointer;
+}
+.sub-button2{
+  background-color: lightgray;
+  color: black;
+  height: 50px;
+  width: 105px;
+  padding: 10px 15px;
+  border: solid;
+  font-weight: bold;
+  border-radius: 11px;
+  cursor: pointer;
+}
